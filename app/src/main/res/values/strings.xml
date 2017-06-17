@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Magazyn</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="add">Dodaj</string>
+    <string name="name_label">Nazwa</string>
+    <string name="parent_category">Rodzic</string>
+    <string name="save">Zapisz</string>
+    <string name="remove_message">Czy napewno chcesz usunąć?</string>
+    <string name="remove_title">Usuwanie</string>
+    <string name="yes">tak</string>
+    <string name="no">nie</string>
+    <string name="categories">Kategorie</string>
+    <string name="providers">Dostawcy</string>
+    <string name="category">Kategoria</string>
+    <string name="provider">Dostawca</string>
+    <string name="telephone">Telefon</string>
+    <string name="address">Adres</string>
+    <string name="articles">Artykuły</string>
+    <string name="price_label">Cena</string>
+    <string name="article">Artykuł</string>
+</resources>
